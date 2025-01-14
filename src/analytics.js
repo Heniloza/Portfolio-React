@@ -1,7 +1,7 @@
 import ReactGA from "react-ga4";
 
 export const initGA = () => {
-  ReactGA.initialize(import.meta.env.VITE_MEASUREMENT_ID_GOOGLE); 
+  ReactGA.initialize("G-C5LMQ011F1"); 
 };
 
 export const logPageView = () => {
