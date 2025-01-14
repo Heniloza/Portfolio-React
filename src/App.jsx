@@ -4,8 +4,16 @@ import About from "./components/About";
 import Technoligies from "./components/Technoligies";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
+import { initGA, logPageView } from "./analytics";
+import { useEffect } from "react";
 
 function App() {
+
+  useEffect(() => {
+    initGA();
+    logPageView(); 
+  }, []);
+
   return (
     <div className="overflow-x-hidden text-neutral-300 antialiased selection:bg-cyan-300 selection:text-cyan-900">
       <div className="fixed top-0 -z-10 h-full w-full">
