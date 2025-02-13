@@ -16,11 +16,12 @@ const Navbar = () => {
       className="mb-20 md:h-[100px] flex items-center md:justify-between justify-evenly  w-full"
     >
       <div className="flex md:flex-shrink-0 items-center">
-        <img
+         <img
           src="/logo.png"
           alt="logo"
-          className="h-[100px] md:h-[150px]  object-cover"
+          className="h-[100px] md:h-[150px]  object-cover" 
         />
+        {/* <h1 className="font-bold text-4xl bg-gradient-to-r from-yellow-500 to-pink-500 bg-clip-text text-transparent">Developer</h1> */}
       </div>
       <div>
         <div className="md:hidden flex items-center">

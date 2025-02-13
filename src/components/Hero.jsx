@@ -56,7 +56,7 @@ const Hero = () => {
               animate="visible"
               className="my-2 max-w-xl py-6 font-light tracking-tight"
             >
-              Hi! I'm a passionate MERN Stack Developer with a knack for
+              Hi! I'm a passionate Full Stack Developer with a knack for
               building dynamic and user-friendly web applications. With
               expertise in MongoDB, Express.js, React.js, and Node.js, I enjoy
               creating seamless digital experiences that merge design and
@@ -71,8 +71,8 @@ const Hero = () => {
               initial={{ x: 100, opacity: 0 }}
               animate={{ x: 0, opacity: 1 }}
               transition={{ duration: 0.5, delay: 0.5 }}
-              className="md:h-[500px]"
-              src="/profilepicture.jpg"
+              className="md:h-[400px] object-cover rounded-lg"
+              src="/progile2.jpg"
               alt=""
             />
           </div>
