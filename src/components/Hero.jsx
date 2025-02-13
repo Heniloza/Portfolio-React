@@ -72,7 +72,7 @@ const Hero = () => {
               animate={{ x: 0, opacity: 1 }}
               transition={{ duration: 0.5, delay: 0.5 }}
               className="md:h-[400px] rounded-lg"
-              src="/progile2.jpg"
+              src="/profile2.jpg"
               alt=""
             />
           </div>
