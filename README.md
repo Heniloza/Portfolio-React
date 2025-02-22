@@ -17,4 +17,4 @@ About me section with my projects and skills
 Contact form for easy communication
 
 Tech Stack
-Html,tailwind css,javascript,react.js and Famer motion
+Html,tailwind css,javascript,react.js and Framer motion
