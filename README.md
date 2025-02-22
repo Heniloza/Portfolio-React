@@ -15,3 +15,6 @@ Projects section highlighting my best work
 About me section with my projects and skills
 
 Contact form for easy communication
+
+Tech Stack
+Html,tailwind css,javascript,react.js and Famer motion
