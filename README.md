@@ -1,10 +1,10 @@
 Portfolio Website
 
-🌟 Overview
+ Overview
 
 This is my personal portfolio website showcasing my skills, projects, and experience as a frontend developer. It serves as a digital resume and a place to share my work with potential employers, clients, and fellow developers.
 
-🚀 Features
+ Features
 
 Responsive design for seamless viewing on all devices
 
