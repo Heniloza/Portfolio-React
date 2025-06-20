@@ -58,10 +58,11 @@ const Hero = () => {
             >
               Hi! I'm a passionate Full Stack Developer with a knack for
               building dynamic and user-friendly web applications. With
-              expertise in MongoDB, Express.js, React.js, and Node.js, I enjoy
-              creating seamless digital experiences that merge design and
-              functionality.My ultimate goal is to leverage my expertise to
-              create innovative solutions that address real-world challenges.
+              expertise in Type Script, MongoDB, Express.js, React.js, Next.js,
+              and Node.js, I enjoy creating seamless digital experiences that
+              merge design and functionality.My ultimate goal is to leverage my
+              expertise to create innovative solutions that address real-world
+              challenges.
             </motion.p>
           </div>
         </div>
